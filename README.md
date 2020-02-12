@@ -1,15 +1,15 @@
 ## Coordinate Reference System UTILities (crsutil.py)
 <br>
- crsutil.py    CRSUTIL Coordinate and Time Reference System Toolbox.
- Version 1.0 (1 November 2019).
- Created by: Hans van der Maarel and Ullas Rajvanshi
- Date:       13 Nov 2019
- Modified:   -
+ crsutil.py    CRSUTIL Coordinate and Time Reference System Toolbox.<br>
+ Version 1.0 (1 November 2019).<br>
+ Created by: Hans van der Maarel and Ullas Rajvanshi<br>
+ Date:       13 Nov 2019<br>
+ Modified:   -<br>
 
-   Copyright: Hans van der Marel, Ullas Rajvanshi, Delft University of Technology
-   Email:     H.vanderMarel@tudelft.nl ; U.Rajvanshi@student.tudelft.nl
-   Github:    www.github.com/ullasrajvanshi
- Functions created:
+   Copyright: Hans van der Marel, Ullas Rajvanshi, Delft University of Technology<br>
+   Email:     H.vanderMarel@tudelft.nl ; U.Rajvanshi@student.tudelft.nl<br>
+   Github:    www.github.com/ullasrajvanshi<br>
+ Functions created:<br>
 
  ### Coordinate transformations (ECEF reference frame)
    inqell      - Semi-major axis, flattening and GM for various ellipsoids<br>
