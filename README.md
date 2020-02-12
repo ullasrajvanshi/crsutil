@@ -1,6 +1,5 @@
 ## Coordinate Reference System UTILities (crsutil.py)
 
- ----------------------------------------------------------------------------
  crsutil.py    CRSUTIL Coordinate and Time Reference System Toolbox.
  Version 1.0 (1 November 2019).
  Created by: Hans van der Maarel and Ullas Rajvanshi
@@ -10,7 +9,6 @@
    Copyright: Hans van der Marel, Ullas Rajvanshi, Delft University of Technology
    Email:     H.vanderMarel@tudelft.nl ; U.Rajvanshi@student.tudelft.nl
    Github:    www.github.com/ullasrajvanshi
- ----------------------------------------------------------------------------
  Functions created:
  Coordinate transformations (ECEF reference frame)
    inqell      - Semi-major axis, flattening and GM for various ellipsoids
@@ -21,14 +19,12 @@
    plh2neu     - Ellipsoidal (Lat,Lon,Hgt) to North,East,Up (dN, dE, dU)
    xyz2zas     - Cartesian coordinates to Zenith angle, azimuth and distance
    zas2xyz     - Zenith angle, azimuth and distance to cartesian coordinates
- ----------------------------------------------------------------------------
 
  UT1 to GMST, and ECI/ECEF, conversions
 
    ut2gmst    - Compute Greenwich Mean Siderial Time from UT1
    ecef2eci   - Convert position and velocity from ECEF to ECI reference frame
    eci2ecef   - Convert position and velocity from ECI to ECEF reference frame
- ----------------------------------------------------------------------------
 
  Keplerian elements
 
@@ -38,4 +34,3 @@
    keplernu    - Compute mean anomaly from true anomaly (Kepler's equation)
    keplerm     - Compute eccentric/true from mean anomaly solving Kepler's eqn
 
- ----------------------------------------------------------------------------
