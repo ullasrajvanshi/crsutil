@@ -1,5 +1,5 @@
 ## Coordinate Reference System UTILities (crsutil.py)
-
+<br>
  crsutil.py    CRSUTIL Coordinate and Time Reference System Toolbox.
  Version 1.0 (1 November 2019).
  Created by: Hans van der Maarel and Ullas Rajvanshi
@@ -11,7 +11,7 @@
    Github:    www.github.com/ullasrajvanshi
  Functions created:
  Coordinate transformations (ECEF reference frame)
-   inqell      - Semi-major axis, flattening and GM for various ellipsoids
+   inqell      - Semi-major axis, flattening and GM for various ellipsoids<br>
    xyz2plh     - Cartesian Coordinates to Ellipsoidal coordinates
    plh2xyz     - Ellipsoidal coordinates to Cartesian Coordinates
    xyz2neu     - North, East, Up (dN, dE, dU) to Cartesian delta's (dX, dY, dZ)
