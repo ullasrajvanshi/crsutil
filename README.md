@@ -12,11 +12,11 @@
  Functions created:
  Coordinate transformations (ECEF reference frame)
    inqell      - Semi-major axis, flattening and GM for various ellipsoids<br>
-   xyz2plh     - Cartesian Coordinates to Ellipsoidal coordinates
-   plh2xyz     - Ellipsoidal coordinates to Cartesian Coordinates
-   xyz2neu     - North, East, Up (dN, dE, dU) to Cartesian delta's (dX, dY, dZ)
-   neu2xyz     - Cartesian delta's (dX, dY, dZ) to North, East, Up (dN, dE, dU)
-   plh2neu     - Ellipsoidal (Lat,Lon,Hgt) to North,East,Up (dN, dE, dU)
+   xyz2plh     - Cartesian Coordinates to Ellipsoidal coordinates<br>
+   plh2xyz     - Ellipsoidal coordinates to Cartesian Coordinates<br>
+   xyz2neu     - North, East, Up (dN, dE, dU) to Cartesian delta's (dX, dY, dZ)<br>
+   neu2xyz     - Cartesian delta's (dX, dY, dZ) to North, East, Up (dN, dE, dU)<br>
+   plh2neu     - Ellipsoidal (Lat,Lon,Hgt) to North,East,Up (dN, dE, dU)<br>
    xyz2zas     - Cartesian coordinates to Zenith angle, azimuth and distance
    zas2xyz     - Zenith angle, azimuth and distance to cartesian coordinates
 
